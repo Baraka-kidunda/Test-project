@@ -67,13 +67,8 @@ Steps to Reproduce:
 Expected Result:Movie is no longer shown
 Actual Result:Movie disappears from list
 Status:Pass 
-
-
-
-
-
-Summary of your testing approach
-
+-------------------------------------------------------------------------------------------------------------------------------
+Summary of my testing approach
 Functional Testing Strategy Summary
 
 1. Scope of Testing
@@ -82,7 +77,6 @@ Focused on key user flows:
 - Search: querying valid and invalid movie titles
 - Playback: verifying smooth streaming and access control
 - Watchlist: adding and removing movies
-
 
 2. Test Case Design
 - Followed structured templates: Test Name, Steps, Expected vs Actual Result, Status
